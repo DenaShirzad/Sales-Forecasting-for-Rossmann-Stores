@@ -38,7 +38,7 @@ Due to GitHub’s file size limit (25 MB), the CSVs are **not included** in this
 
 Key insights:  
 - Promotions and store opening status strongly influence sales.  
-- Competition distance and store type also affect performance.  
+- Competition distance and store characteristics also influence sales, even when correlations appear weak.  
 - December shows seasonal peaks in demand.  
 
 
