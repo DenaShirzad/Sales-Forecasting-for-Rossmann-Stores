@@ -43,14 +43,6 @@ Key insights:
 
 
 ## How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/USERNAME/rossmann-sales-forecasting.git
-   cd rossmann-sales-forecasting
-   ```
-2. Open the notebook:  
-   ```bash
-   jupyter notebook rossmann_sales_forecasting.ipynb
-   ```
-3. Download the dataset from Kaggle and place it in the project folder before running.  
-
+1. Download the datasets from the [Kaggle Rossmann Store Sales competition](https://www.kaggle.com/competitions/rossmann-store-sales).  
+2. Place the files (`train.csv`, `test.csv`, `store.csv`) in the same folder as this notebook.  
+3. Open and run `rossmann_sales_forecasting.ipynb` using Jupyter Notebook or JupyterLab.  
